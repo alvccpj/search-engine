@@ -6,7 +6,7 @@ Consumindo a ViaCEP, para buscar endereços baseado nos CEPS e exibir nos format
 
 Também utilizei o Postman para fazer HTTP requests através das operações do CRUD com o objetivo de trazer informações dos locais no formato JSON.
 
-![Captura de tela 2023-11-05 200130](https://github.com/alvccpj/search-engine/assets/103002592/7dce972d-9d47-47c6-9c46-5a3618f6c69f)
+![Captura de tela 2023-11-05 200130](https://github.com/alvccpj/search-engine/assets/103002592/b2417239-9836-4f0b-9d07-403bc7222bde)
 
 ## Ferramentas utilizadas:
 
